@@ -1,0 +1,16 @@
+{
+    "apostrophe_0028": {
+        "group_id": "group_0000",
+        "apostr_case": "ain’t",
+        "to_replace": [
+            "is",
+            "no"
+        ],
+        "song_id": "song_0004",
+        "position": 28,
+        "word-2": "thing",
+        "word-1": "lyric",
+        "word+1": "no",
+        "word+2": "food"
+    }
+}

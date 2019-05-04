@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+venv/
+helpers/__pycache__/
+song_cleaner/__pycache__/
+/test.py
+/helping_file.txt
+/NOTES.txt

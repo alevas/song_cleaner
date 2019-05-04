@@ -1,0 +1,398 @@
+{
+    "apostrophe_0000": {
+        "apostr_word": "i’ll",
+        "song_id": "song_0000",
+        "position": 2,
+        "word-2": "she",
+        "word-1": "said",
+        "word+1": "throw",
+        "word+2": "myself"
+    },
+    "apostrophe_0001": {
+        "apostr_word": "they’re",
+        "song_id": "song_0000",
+        "position": 7,
+        "word-2": "away",
+        "word-1": "lyric",
+        "word+1": "just",
+        "word+2": "photos"
+    },
+    "apostrophe_0002": {
+        "apostr_word": "can’t",
+        "song_id": "song_0000",
+        "position": 14,
+        "word-2": "lyric",
+        "word-1": "i",
+        "word+1": "make",
+        "word+2": "you"
+    },
+    "apostrophe_0003": {
+        "apostr_word": "can’t",
+        "song_id": "song_0000",
+        "position": 21,
+        "word-2": "lyric",
+        "word-1": "i",
+        "word+1": "wash",
+        "word+2": "you"
+    },
+    "apostrophe_0004": {
+        "apostr_word": "we’re",
+        "song_id": "song_0000",
+        "position": 33,
+        "word-2": "is",
+        "word-1": "what",
+        "word+1": "leaving",
+        "word+2": "out"
+    },
+    "apostrophe_0005": {
+        "apostr_word": "won’t",
+        "song_id": "song_0000",
+        "position": 38,
+        "word-2": "lyric",
+        "word-1": "you",
+        "word+1": "remember",
+        "word+2": "anyway"
+    },
+    "apostrophe_0006": {
+        "apostr_word": "don’t",
+        "song_id": "song_0000",
+        "position": 50,
+        "word-2": "lyric",
+        "word-1": "but",
+        "word+1": "say",
+        "word+2": "it"
+    },
+    "apostrophe_0007": {
+        "apostr_word": "doesn’t",
+        "song_id": "song_0000",
+        "position": 53,
+        "word-2": "say",
+        "word-1": "it",
+        "word+1": "matter",
+        "word+2": "anymore"
+    },
+    "apostrophe_0008": {
+        "apostr_word": "it’s",
+        "song_id": "song_0000",
+        "position": 72,
+        "word-2": "head",
+        "word-1": "lyric",
+        "word+1": "so",
+        "word+2": "safe"
+    },
+    "apostrophe_0009": {
+        "apostr_word": "don’t",
+        "song_id": "song_0000",
+        "position": 142,
+        "word-2": "lyric",
+        "word-1": "but",
+        "word+1": "say",
+        "word+2": "it"
+    },
+    "apostrophe_0010": {
+        "apostr_word": "doesn’t",
+        "song_id": "song_0000",
+        "position": 145,
+        "word-2": "say",
+        "word-1": "it",
+        "word+1": "matter",
+        "word+2": "anymore"
+    },
+    "apostrophe_0011": {
+        "apostr_word": "groovin’",
+        "song_id": "song_0001",
+        "position": 8,
+        "word-2": "he",
+        "word-1": "come",
+        "word+1": "up",
+        "word+2": "slowly"
+    },
+    "apostrophe_0012": {
+        "apostr_word": "it’s",
+        "song_id": "song_0002",
+        "position": 15,
+        "word-2": "lyric",
+        "word-1": "and",
+        "word+1": "been",
+        "word+2": "the"
+    },
+    "apostrophe_0013": {
+        "apostr_word": "i’m",
+        "song_id": "song_0002",
+        "position": 29,
+        "word-2": "i",
+        "word-1": "know",
+        "word+1": "one",
+        "word+2": "lyric"
+    },
+    "apostrophe_0014": {
+        "apostr_word": "gamblin’",
+        "song_id": "song_0002",
+        "position": 50,
+        "word-2": "was",
+        "word-1": "a",
+        "word+1": "man",
+        "word+2": "lyric"
+    },
+    "apostrophe_0015": {
+        "apostr_word": "he’s",
+        "song_id": "song_0002",
+        "position": 78,
+        "word-2": "only",
+        "word-1": "time",
+        "word+1": "satisfied",
+        "word+2": "lyric"
+    },
+    "apostrophe_0016": {
+        "apostr_word": "he’s",
+        "song_id": "song_0002",
+        "position": 83,
+        "word-2": "is",
+        "word-1": "when",
+        "word+1": "on",
+        "word+2": "a"
+    },
+    "apostrophe_0017": {
+        "apostr_word": "i’m",
+        "song_id": "song_0002",
+        "position": 141,
+        "word-2": "train",
+        "word-1": "lyric",
+        "word+1": "goin’",
+        "word+2": "back"
+    },
+    "apostrophe_0018": {
+        "apostr_word": "goin’",
+        "song_id": "song_0002",
+        "position": 142,
+        "word-2": "lyric",
+        "word-1": "i’m",
+        "word+1": "back",
+        "word+2": "to"
+    },
+    "apostrophe_0019": {
+        "apostr_word": "it’s",
+        "song_id": "song_0002",
+        "position": 172,
+        "word-2": "lyric",
+        "word-1": "and",
+        "word+1": "been",
+        "word+2": "the"
+    },
+    "apostrophe_0020": {
+        "apostr_word": "i’m",
+        "song_id": "song_0002",
+        "position": 186,
+        "word-2": "i",
+        "word-1": "know",
+        "word+1": "one",
+        "word+2": ""
+    },
+    "apostrophe_0021": {
+        "apostr_word": "didn’t",
+        "song_id": "song_0003",
+        "position": 33,
+        "word-2": "lyric",
+        "word-1": "daddy",
+        "word+1": "give",
+        "word+2": "attention"
+    },
+    "apostrophe_0022": {
+        "apostr_word": "didn’t",
+        "song_id": "song_0003",
+        "position": 43,
+        "word-2": "that",
+        "word-1": "mommy",
+        "word+1": "care",
+        "word+2": "lyric"
+    },
+    "apostrophe_0023": {
+        "apostr_word": "pickin’",
+        "song_id": "song_0003",
+        "position": 72,
+        "word-2": "remember",
+        "word-1": "lyric",
+        "word+1": "on",
+        "word+2": "the"
+    },
+    "apostrophe_0024": {
+        "apostr_word": "lady’s",
+        "song_id": "song_0003",
+        "position": 96,
+        "word-2": "the",
+        "word-1": "recessed",
+        "word+1": "breast",
+        "word+2": "lyric"
+    },
+    "apostrophe_0025": {
+        "apostr_word": "didn’t",
+        "song_id": "song_0003",
+        "position": 135,
+        "word-2": "lyric",
+        "word-1": "daddy",
+        "word+1": "give",
+        "word+2": "affection"
+    },
+    "apostrophe_0026": {
+        "apostr_word": "wouldn’t",
+        "song_id": "song_0003",
+        "position": 146,
+        "word-2": "that",
+        "word-1": "mommy",
+        "word+1": "wear",
+        "word+2": "lyric"
+    },
+    "apostrophe_0027": {
+        "apostr_word": "mornin’",
+        "song_id": "song_0004",
+        "position": 6,
+        "word-2": "in",
+        "word-1": "the",
+        "word+1": "you",
+        "word+2": "hear"
+    },
+    "apostrophe_0029": {
+        "apostr_word": "lovin’",
+        "song_id": "song_0004",
+        "position": 94,
+        "word-2": "a",
+        "word-1": "ever",
+        "word+1": "light",
+        "word+2": "on"
+    },
+    "apostrophe_0030": {
+        "apostr_word": "gov’nor",
+        "song_id": "song_0004",
+        "position": 140,
+        "word-2": "see",
+        "word-1": "the",
+        "word+1": "she",
+        "word+2": "wants"
+    },
+    "apostrophe_0031": {
+        "apostr_word": "lovin’",
+        "song_id": "song_0004",
+        "position": 185,
+        "word-2": "a",
+        "word-1": "ever",
+        "word+1": "light",
+        "word+2": "on"
+    },
+    "apostrophe_0032": {
+        "apostr_word": "you’re",
+        "song_id": "song_0004",
+        "position": 191,
+        "word-2": "lyric",
+        "word-1": "if",
+        "word+1": "ever",
+        "word+2": "in"
+    },
+    "apostrophe_0033": {
+        "apostr_word": "you’re",
+        "song_id": "song_0004",
+        "position": 235,
+        "word-2": "boy",
+        "word-1": "oh",
+        "word+1": "prison",
+        "word+2": "bound"
+    },
+    "apostrophe_0034": {
+        "apostr_word": "lovin’",
+        "song_id": "song_0004",
+        "position": 276,
+        "word-2": "a",
+        "word-1": "ever",
+        "word+1": "light",
+        "word+2": "on"
+    },
+    "apostrophe_0035": {
+        "apostr_word": "everlovin’",
+        "song_id": "song_0004",
+        "position": 317,
+        "word-2": "shine",
+        "word-1": "a",
+        "word+1": "light",
+        "word+2": "on"
+    },
+    "apostrophe_0036": {
+        "apostr_word": "’cause",
+        "song_id": "song_0005",
+        "position": 72,
+        "word-2": "low",
+        "word-1": "low",
+        "word+1": "you’re",
+        "word+2": "angry"
+    },
+    "apostrophe_0037": {
+        "apostr_word": "you’re",
+        "song_id": "song_0005",
+        "position": 73,
+        "word-2": "low",
+        "word-1": "’cause",
+        "word+1": "angry",
+        "word+2": "lyric"
+    },
+    "apostrophe_0038": {
+        "apostr_word": "’til",
+        "song_id": "song_0005",
+        "position": 94,
+        "word-2": "lyric",
+        "word-1": "drink",
+        "word+1": "you",
+        "word+2": "cry"
+    },
+    "apostrophe_0039": {
+        "apostr_word": "you’re",
+        "song_id": "song_0005",
+        "position": 98,
+        "word-2": "cry",
+        "word-1": "and",
+        "word+1": "lyin’",
+        "word+2": "in"
+    },
+    "apostrophe_0040": {
+        "apostr_word": "lyin’",
+        "song_id": "song_0005",
+        "position": 99,
+        "word-2": "and",
+        "word-1": "you’re",
+        "word+1": "in",
+        "word+2": "the"
+    },
+    "apostrophe_0041": {
+        "apostr_word": "’cause",
+        "song_id": "song_0005",
+        "position": 153,
+        "word-2": "low",
+        "word-1": "low",
+        "word+1": "you’re",
+        "word+2": "angry"
+    },
+    "apostrophe_0042": {
+        "apostr_word": "you’re",
+        "song_id": "song_0005",
+        "position": 154,
+        "word-2": "low",
+        "word-1": "’cause",
+        "word+1": "angry",
+        "word+2": "lyric"
+    },
+    "apostrophe_0043": {
+        "apostr_word": "’cause",
+        "song_id": "song_0005",
+        "position": 186,
+        "word-2": "low",
+        "word-1": "low",
+        "word+1": "you’re",
+        "word+2": "angry"
+    },
+    "apostrophe_0044": {
+        "apostr_word": "you’re",
+        "song_id": "song_0005",
+        "position": 187,
+        "word-2": "low",
+        "word-1": "’cause",
+        "word+1": "angry",
+        "word+2": "lyric"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "apostrophe_0028": {
+        "apostr_case": "lovin’",
+        "song_id": "song_0004",
+        "position_old": 93,
+        "position_new": 94
+    },
+    "apostrophe_0028+": {
+        "apostr_case": "gov’nor",
+        "song_id": "song_0004",
+        "position_old": 139,
+        "position_new": 140
+    },
+    "apostrophe_0028++": {
+        "apostr_case": "lovin’",
+        "song_id": "song_0004",
+        "position_old": 184,
+        "position_new": 185
+    },
+    "apostrophe_0028+++": {
+        "apostr_case": "you’re",
+        "song_id": "song_0004",
+        "position_old": 190,
+        "position_new": 191
+    },
+    "apostrophe_0028++++": {
+        "apostr_case": "you’re",
+        "song_id": "song_0004",
+        "position_old": 234,
+        "position_new": 235
+    },
+    "apostrophe_0028+++++": {
+        "apostr_case": "lovin’",
+        "song_id": "song_0004",
+        "position_old": 275,
+        "position_new": 276
+    },
+    "apostrophe_0028++++++": {
+        "apostr_case": "everlovin’",
+        "song_id": "song_0004",
+        "position_old": 316,
+        "position_new": 317
+    }
+}

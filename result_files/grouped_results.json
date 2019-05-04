@@ -1,0 +1,196 @@
+{
+    "group_0001": {
+        "apostr_case": "can’t",
+        "frequency": 2,
+        "apostr_cases_ids": [
+            "apostrophe_0002",
+            "apostrophe_0003"
+        ]
+    },
+    "group_0002": {
+        "apostr_case": "didn’t",
+        "frequency": 3,
+        "apostr_cases_ids": [
+            "apostrophe_0021",
+            "apostrophe_0022",
+            "apostrophe_0025"
+        ]
+    },
+    "group_0003": {
+        "apostr_case": "doesn’t",
+        "frequency": 2,
+        "apostr_cases_ids": [
+            "apostrophe_0007",
+            "apostrophe_0010"
+        ]
+    },
+    "group_0004": {
+        "apostr_case": "don’t",
+        "frequency": 2,
+        "apostr_cases_ids": [
+            "apostrophe_0006",
+            "apostrophe_0009"
+        ]
+    },
+    "group_0005": {
+        "apostr_case": "everlovin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0035"
+        ]
+    },
+    "group_0006": {
+        "apostr_case": "gamblin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0014"
+        ]
+    },
+    "group_0007": {
+        "apostr_case": "goin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0018"
+        ]
+    },
+    "group_0008": {
+        "apostr_case": "gov’nor",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0030"
+        ]
+    },
+    "group_0009": {
+        "apostr_case": "groovin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0011"
+        ]
+    },
+    "group_0010": {
+        "apostr_case": "he’s",
+        "frequency": 2,
+        "apostr_cases_ids": [
+            "apostrophe_0015",
+            "apostrophe_0016"
+        ]
+    },
+    "group_0011": {
+        "apostr_case": "it’s",
+        "frequency": 3,
+        "apostr_cases_ids": [
+            "apostrophe_0008",
+            "apostrophe_0012",
+            "apostrophe_0019"
+        ]
+    },
+    "group_0012": {
+        "apostr_case": "i’ll",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0000"
+        ]
+    },
+    "group_0013": {
+        "apostr_case": "i’m",
+        "frequency": 3,
+        "apostr_cases_ids": [
+            "apostrophe_0013",
+            "apostrophe_0017",
+            "apostrophe_0020"
+        ]
+    },
+    "group_0014": {
+        "apostr_case": "lady’s",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0024"
+        ]
+    },
+    "group_0015": {
+        "apostr_case": "lovin’",
+        "frequency": 3,
+        "apostr_cases_ids": [
+            "apostrophe_0029",
+            "apostrophe_0031",
+            "apostrophe_0034"
+        ]
+    },
+    "group_0016": {
+        "apostr_case": "lyin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0040"
+        ]
+    },
+    "group_0017": {
+        "apostr_case": "mornin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0027"
+        ]
+    },
+    "group_0018": {
+        "apostr_case": "pickin’",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0023"
+        ]
+    },
+    "group_0019": {
+        "apostr_case": "they’re",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0001"
+        ]
+    },
+    "group_0020": {
+        "apostr_case": "we’re",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0004"
+        ]
+    },
+    "group_0021": {
+        "apostr_case": "won’t",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0005"
+        ]
+    },
+    "group_0022": {
+        "apostr_case": "wouldn’t",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0026"
+        ]
+    },
+    "group_0023": {
+        "apostr_case": "you’re",
+        "frequency": 6,
+        "apostr_cases_ids": [
+            "apostrophe_0032",
+            "apostrophe_0033",
+            "apostrophe_0037",
+            "apostrophe_0039",
+            "apostrophe_0042",
+            "apostrophe_0044"
+        ]
+    },
+    "group_0024": {
+        "apostr_case": "’cause",
+        "frequency": 3,
+        "apostr_cases_ids": [
+            "apostrophe_0036",
+            "apostrophe_0041",
+            "apostrophe_0043"
+        ]
+    },
+    "group_0025": {
+        "apostr_case": "’til",
+        "frequency": 1,
+        "apostr_cases_ids": [
+            "apostrophe_0038"
+        ]
+    }
+}
