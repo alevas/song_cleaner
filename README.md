@@ -13,7 +13,6 @@ In short, the project does the following:
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 This project runs on Python 3 (version>3.5).
 
 #### Anaconda
@@ -23,9 +22,9 @@ Python Anaconda with Python3 and above version 3.5 should be working.
 
 ##### Packages:
 
-Run the 
+Run
 ```
-setup.py
+python setup.py install
 ```
 which will install packages:
 * [Pandas](https://pandas.pydata.org/)
