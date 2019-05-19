@@ -31,7 +31,7 @@ import re
 def mark_repetitions(lyric):
     """
         This function marks the repetition start and finish
-        :param lyric:
+        :param lyric: the whole lyric as a string
         :return lyric (after marking the repetition):
     """
     # todo improve the regex's. simplify and cover other cases of repetitions.
@@ -58,7 +58,7 @@ def punctuation_clean_up(lyric):
     """
     Makes a punctuation marks cleanup.
 
-    :param lyric:
+    :param lyric: the whole lyric as a string
     :return lyric (without current puncuation marks:
     """
 

@@ -36,8 +36,8 @@ from helpers.multi_helper import console_data_printer
 def excel_parser(path):
     """
     This function reads an excel file which contains the original data set as provided.
-    :param path:
-    :return songs_from_data_set:
+    :param path: the path of the excel file
+    :return songs_from_data_set: the data set in a dictionary data type.
     """
     # todo wtf=======================
     xls = pandas.ExcelFile(path)
@@ -63,7 +63,7 @@ def file_cleaner(type_of_call="saving_progress"):
     This function cleans the files apostrophe_cases, grouped_results, songCompDict and song_data_set by default.
     If the user has proceeded and they exist, change_log and change_log_double_words are cleaned as well.
     :param type_of_call:
-    :return:
+    :return: nothing.
     """
     if not os.path.exists(os.path.join(Path(os.getcwd()).parent, "result_files")):
         os.makedirs(os.path.join(Path(os.getcwd()).parent, "result_files"))
@@ -92,9 +92,9 @@ def json_reader(name):
 def json_writer(something_to_write, name):
     """
     writes the results in a file
-    :param something_to_write:
-    :param name:
-    :return:
+    :param something_to_write: the data that will be writen to the file
+    :param name: the name of the file
+    :return: nothing
     """
     file_dir_name = os.path.join(Path(os.getcwd()).parent, "result_files", name + '.json')
     with open(file_dir_name, 'w', encoding='utf-8') as outfile:
@@ -102,6 +102,10 @@ def json_writer(something_to_write, name):
 
 
 def check_datasets():
+    """
+    Lists the contents of song_cleaner/data directory, which is where data sets should be stored.
+    :return: the contents of the song_clenaer/data directory
+    """
     path = os.path.join(Path(os.getcwd()).parent, "data")
     try:
         data_contents = []
@@ -113,12 +117,17 @@ def check_datasets():
 
 
 def choose_dataset():
+    """
+    This method takes the generated list of items in song_cleaner/data directory returned from check_datasets method and
+    prompts the user to choose one of them by number.
+    :return: The chosen dataset.
+    """
     datasets = check_datasets()
     console_data_printer("Available datasets:", datasets)
     checker = False
     while not checker:
         try:
-            chosen_dataset = int(input("Choose among the available datasets: "))
+            chosen_dataset = int(input("Choose among the available datasets(by number): "))
 
             while 0 <= chosen_dataset < len(datasets):
                 checker = True
